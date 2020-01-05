@@ -1,0 +1,2 @@
+hi
+hello from text 2 file
